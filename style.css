@@ -1,0 +1,76 @@
+body {
+
+   font-family: 'Marlett', sans-serif;
+
+   /* you can change the font as you like */
+background: #de99b2;
+background: linear-gradient(90deg,rgba(222, 153, 178, 1) 1%, rgba(87, 47, 67, 1) 69%, rgba(255, 212, 248, 1) 100%);
+
+
+}
+
+p{
+    color: rgb(136, 211, 255);
+    font-size: 20pt;
+    position: absolute;
+    top: 120%;
+    left: 40px;
+   font-family: "Betania Patmos GDL", cursive;
+  font-weight: 400;
+  font-style: normal;
+  /* width: 150px; */
+    height: 50px;
+    overflow-wrap: break-word
+}
+
+
+#blue{
+    color: rgb(145, 200, 216);
+    font-size: 20pt;
+    position: absolute;
+    top: 10%;
+    left: 40px;
+   font-family: "Betania Patmos GDL", cursive;
+  font-weight: 400;
+  font-style: normal;
+    
+}
+
+#orange{
+
+    position: absolute;
+    top: 50%;
+    left: 400px;
+    color: rgb(255, 158, 101);
+    width: 20px;
+    height: 20px;
+    overflow-wrap: break-word;
+
+}
+
+
+#pink{
+    font-size: 40pt;
+    position: absolute;
+    top: 10%;
+    left: 1%;
+    color: rgb(252, 159, 255);
+      font-family: "Betania Patmos GDL", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#yellow{
+
+  font-size: 10pt;
+    position: absolute;
+    top: 10%;
+    left: 1500px;
+    color: rgb(255, 219, 141);
+    font-family: "Anton", sans-serif;
+  font-weight: 30;
+  font-style: normal;
+  opacity: 50%;
+  text-align: justify;
+
+}
